@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Aakash!<br>🌱 Exploring the realms of coding and technology.<br>💡 Passionate about creating innovative solutions.<br>🚀 Currently honing my skills in web development.<br>🤖 Love diving into the world of algorithms and data structures.<br>✍️ Sharing my coding journey one commit at a time. <br> [<img src="https://img.shields.io/badge/imakash.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:imakash.contact@gmail.com) 
+👋 Hey there, I'm Aakash!<br>🌱 Exploring the realms of coding and technology.<br>💡 Passionate about creating innovative solutions.<br>🚀 Currently honing my skills in web development.<br>🤖 Love diving into the world of algorithms and data structures.<br>✍️ Sharing my coding journey one commit at a time. <br><br> [<img src="https://img.shields.io/badge/imakash.contact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:imakash.contact@gmail.com) 
 
 
 ## 🌐 Socials:
