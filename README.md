@@ -1,14 +1,12 @@
-# 💫 About Me:
-👋 Hey there, I'm Akash!<br>🌱 Exploring the realms of coding and technology.<br>💡 Passionate about creating innovative solutions.<br>🚀 Currently honing my skills in web development.<br>🤖 Love diving into the world of algorithms and data structures.<br>✍️ Sharing my coding journey one commit at a time.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akashvanii08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meetakash08) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11649635/akash-tripathi) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:imakash.contact@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/akashtripathi08/) 
-[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=internetexplorer&logoColor=white)](https://www.yourwebsite.com) 
-
-
-
-
+<h1 align="center"> Hi 👋🏻, I'm Akash Tripathi </br> 
+</h1>
+<p align="center"> Exploring the realms of coding and technology 🌱</p>
+<p align="center"> Nature Does Not Hurry, Yet Everything Is Accomplished 💫</p>
+<p align="center">
+ <a href="https://buymeacoffee.com/imakashconb" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+ <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/meetakash08" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/akashvanii08" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 
 
@@ -21,8 +19,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gitakash08&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitakash08&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitakash08&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 
 
