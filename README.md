@@ -7,7 +7,7 @@
  <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/meetakash08" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/akashvanii08" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-
+<a href="https://leetcode.com/akashtripathi08/" target="_blank"><img alt="" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 
 # 💻 Tech Stack:
