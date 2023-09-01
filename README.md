@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Akash Tripathi </br> 
+<h1 align="center"> Hi <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />, I'm Akash Tripathi </br> 
 </h1>
 <p align="center"> Exploring the realms of coding and technology 🌱</p>
 <p align="center"> Nature Does Not Hurry, Yet Everything Is Accomplished 💫</p>
