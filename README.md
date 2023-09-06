@@ -1,7 +1,5 @@
 <h1 align="center"> Hi <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" /> I'm Akash Tripathi </br> 
 </h1>
-<p align="center"> Exploring the realms of coding and technology 🌱</p>
-<p align="center"> Nature Does Not Hurry, Yet Everything Is Accomplished 💫</p>
 <p align="center">
  <a href="https://buymeacoffee.com/imakashconb" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -77,11 +75,6 @@ if (inspiration < Infinity) {
 ![](https://github-readme-stats.vercel.app/api?username=gitakash08&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitakash08&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitakash08&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gitakash08&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 
