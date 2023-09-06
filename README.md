@@ -1,4 +1,4 @@
-<h1> Hi <img src="https://github.com/KaylaKremer/KaylaKremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" /> I'm Akash Tripathi </br> 
+<h1> Akash Tripathi </br> 
 </h1>
 <p>
  <a href="https://buymeacoffee.com/imakashconb" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
